@@ -11,8 +11,8 @@
 
 
 ### **Requirements**
-1. python
-2. opencv
+    1. python
+    2. opencv
 
 
 ### **Demo images, videos**
