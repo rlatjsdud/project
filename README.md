@@ -16,7 +16,7 @@
 
 
 ### **Operation Process**
-Run with Python.
+- Run with Python.
 
 
 ### **Reference**
