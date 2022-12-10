@@ -5,6 +5,7 @@
 
 ### **Project Overview**
 - Goals: Recognize face and put stickers on it
+- Steps involved
 
 
 ### **Requirements**
