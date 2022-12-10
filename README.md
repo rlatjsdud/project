@@ -4,7 +4,7 @@
 ---
 
 ### **Project Overview**
-- Recognize face and put stickers on it
+-Goals: Recognize face and put stickers on it
 
 
 ### **Requirements**
