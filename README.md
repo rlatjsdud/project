@@ -4,8 +4,10 @@
 ---
 
 ### **Project Overview**
-- Goals: Recognize face and put stickers on it
-- Steps involved
+- **Goals**: Recognize your face and put stickers on it
+- **Step involved**
+    1. Find a person's face in the image.
+    2. 
 
 
 ### **Requirements**
