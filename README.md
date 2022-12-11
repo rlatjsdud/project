@@ -33,6 +33,7 @@ The code can be viewed in the **'IMAGE_BLUR'** file.
 
 
 Result3 and Result4 print a filter on the picture.
+The code can be viewed in the **'Filter'** file.
 
 **Result3**
 
@@ -46,6 +47,8 @@ Result3 and Result4 print a filter on the picture.
 - Run with Python.
 
 ## **Changes and additions to the original project**
+1. Change plt.imshow() to cv2.imshow()
+2. Add code to filter pictures
 
 ---
 ## **Reference**
