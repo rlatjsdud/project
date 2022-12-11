@@ -13,6 +13,7 @@
 ## **Requirements (with versions I tested on)**
     1. python (3.10.4)
     2. opencv (4.6.0)
+    3. PIL (9.3.0)
 
 
 ## **Demo images**
