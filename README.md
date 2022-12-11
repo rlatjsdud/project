@@ -25,6 +25,6 @@
 
 ---
 ### **Reference**
-image source:
-- first image: https://www.pinterest.co.kr/pin/372109987965527920/feedback/?invite_code=32542b8d469f4e7db1d56c2fd94f92c7&sender_id=755197568673427164
-- second image: https://www.pinterest.co.kr/pin/542754192605297851/feedback/?invite_code=b8689c1d62804d37b493dea90809861b&sender_id=755197568673427164
+- image source:
+    - first image: https://www.pinterest.co.kr/pin/372109987965527920/feedback/?invite_code=32542b8d469f4e7db1d56c2fd94f92c7&sender_id=755197568673427164
+    - second image: https://www.pinterest.co.kr/pin/542754192605297851/feedback/?invite_code=b8689c1d62804d37b493dea90809861b&sender_id=755197568673427164
