@@ -5,9 +5,13 @@
 
 ## **Project Overview**
 - **Goals**: Recognize face and blurs, apply a filter on it.
-- **Step involved**
+- **Step involved & Results**
     1. Find a person's face in the image.
-    2. 
+    2. Print the results of the original image.
+    3. Print the results of blurring the entire picture.
+    4. Print a blur picture except for the human face.
+    5. Print only human face.
+    6. Print a filter on the picture.
 
 
 ## **Requirements (with versions I tested on)**
@@ -17,11 +21,20 @@
 
 
 ## **Demo images**
+Result1 and Result2 print original image, blur the entire picture, blur picture except for the human face and print only human face.
 **Result1**
 ![result1](https://user-images.githubusercontent.com/112797078/206885322-350bf293-1ee9-4f8f-ae9a-6702b9821555.png)
 
 **Result2**
 ![result2](https://user-images.githubusercontent.com/112797078/206885375-d8a7c63d-7e79-4f23-90f9-d9bfa6049f26.png)
+
+
+
+**Result3**
+![result3]()
+
+**Result4**
+![result4]()
 
 ## **Operation Process**
 - Run with Python.
