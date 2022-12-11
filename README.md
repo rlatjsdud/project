@@ -10,9 +10,9 @@
     2. 
 
 
-## **Requirements**
-    1. python
-    2. opencv
+## **Requirements (with versions i tested on)**
+    1. python (3.10.4)
+    2. opencv (4.6.0)
 
 
 ## **Demo images**
