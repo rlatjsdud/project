@@ -22,6 +22,7 @@
 
 ## **Demo images**
 Result1 and Result2 print original image, blur the entire picture, blur picture except for the human face and print only human face.
+The code can be viewed in the **'IMAGE_BLUR'** file.
 
 **Result1**
 ![result1](https://user-images.githubusercontent.com/112797078/206885322-350bf293-1ee9-4f8f-ae9a-6702b9821555.png)
