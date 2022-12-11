@@ -4,7 +4,7 @@
 ---
 
 ### **Project Overview**
-- **Goals**: Recognize face and put stickers on it
+- **Goals**: Recognize face and blurs it.
 - **Step involved**
     1. Find a person's face in the image.
     2. 
