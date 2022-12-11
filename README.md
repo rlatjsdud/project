@@ -31,12 +31,15 @@ Result1 and Result2 print original image, blur the entire picture, blur picture 
 
 
 
+Result3 and Result4 print a filter on the picture.
+
 **Result3**
 
 ![result3](https://user-images.githubusercontent.com/112797078/206886895-4c23f28d-b9ed-44eb-bf47-393fa381ac3d.png)
 
 **Result4**
-![result4]()
+
+![result4](https://user-images.githubusercontent.com/112797078/206886941-52d6309d-0c9e-47ef-95b0-8bba878eddcf.png)
 
 ## **Operation Process**
 - Run with Python.
