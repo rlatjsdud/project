@@ -44,6 +44,8 @@ Result3 and Result4 print a filter on the picture.
 ## **Operation Process**
 - Run with Python.
 
+## **Changes and additions to the original project**
+
 ---
 ## **Reference**
 - image source:
