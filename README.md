@@ -37,11 +37,11 @@ The code can be viewed in the **'Filter'** file.
 
 **Result3**
 
-![result3](https://user-images.githubusercontent.com/112797078/206886895-4c23f28d-b9ed-44eb-bf47-393fa381ac3d.png)
+![result3](https://user-images.githubusercontent.com/112797078/206956572-6c1b39f2-5b3a-4856-803a-a84499a1b709.jpg)
 
 **Result4**
 
-![result4](https://user-images.githubusercontent.com/112797078/206886941-52d6309d-0c9e-47ef-95b0-8bba878eddcf.png)
+![result4](https://user-images.githubusercontent.com/112797078/206956615-ef8d00c7-e904-4c02-b798-f4a510771c48.jpg)
 
 ## **Operation Process**
 - Run with Python.
